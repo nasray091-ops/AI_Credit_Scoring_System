@@ -1,0 +1,4 @@
+st.image(
+    "assets/logo.svg",
+    width=100
+)
