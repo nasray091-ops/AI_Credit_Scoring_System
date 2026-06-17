@@ -138,21 +138,7 @@ def footer():
 
     st.markdown(
         """
-        <hr>
-
-        <center>
-
-        <b>AI-Based Predictive Credit Scoring System</b>
-
-        <br><br>
-
-        Final Year Project
-
-        <br><br>
-
-        Developed using Streamlit + XGBoost
-
-        </center>
+      
         """,
         unsafe_allow_html=True
     )
